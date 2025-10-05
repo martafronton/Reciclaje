@@ -45,3 +45,15 @@
     border-radius: 10px;
     border-style: solid;
 }
+
+.correcto{
+    border-width:5px;
+    border-color:green;
+    margin: 0;
+    position: static;
+}
+
+.incorrecto{
+    border-width:5px;
+    border-color:red;
+}
